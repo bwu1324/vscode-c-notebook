@@ -1,0 +1,11 @@
+{
+  "name": "C Notebook",
+  "image": "xaverklemenschits/jupyter-c-kernel:latest",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-toolsai.jupyter"
+      ]
+    }
+  }
+}
